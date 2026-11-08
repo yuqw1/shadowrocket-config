@@ -1,0 +1,2 @@
+# shadowrocket-config
+shadowrocket-config
